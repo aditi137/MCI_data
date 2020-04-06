@@ -1,0 +1,422 @@
+{
+    "11-18-2019": {
+        "familyroom": 8.295874822190616,
+        "kitchen": 4.233285917496438,
+        "livingroom": 6.054054054054056,
+        "masterbathroom": 2.253200568990041,
+        "masterbedroom": 3.1635846372688476
+    },
+    "11-19-2019": {
+        "familyroom": 7.978650400305007,
+        "kitchen": 4.529165078154774,
+        "livingroom": 6.935569958063289,
+        "masterbathroom": 1.9397636294319454,
+        "masterbedroom": 2.616850934044983
+    },
+    "11-20-2019": {
+        "familyroom": 7.054448871181948,
+        "kitchen": 4.918990703851253,
+        "livingroom": 7.7237715803452875,
+        "masterbathroom": 1.752988047808763,
+        "masterbedroom": 2.5498007968127454
+    },
+    "11-21-2019": {
+        "familyroom": 6.028436018957352,
+        "kitchen": 3.826675693974268,
+        "livingroom": 10.513202437373053,
+        "masterbathroom": 1.551794177386594,
+        "masterbedroom": 2.0798916723087335
+    },
+    "11-22-2019": {
+        "familyroom": 5.716826265389876,
+        "kitchen": 5.187414500683994,
+        "livingroom": 5.4829001367989045,
+        "masterbathroom": 3.779753761969907,
+        "masterbedroom": 3.8331053351573203
+    },
+    "11-23-2019": {
+        "familyroom": 4.394277464234146,
+        "kitchen": 4.356477227982674,
+        "livingroom": 4.347027168919807,
+        "masterbathroom": 5.449534059587875,
+        "masterbedroom": 5.452684079275498
+    },
+    "11-24-2019": {
+        "familyroom": 4.904272266473572,
+        "kitchen": 4.709630702389565,
+        "livingroom": 4.8347574221578595,
+        "masterbathroom": 4.706154960173788,
+        "masterbedroom": 4.845184648805213
+    },
+    "11-25-2019": {
+        "familyroom": 4.474391902100018,
+        "kitchen": 4.945762199728055,
+        "livingroom": 4.274966006949693,
+        "masterbathroom": 5.166943647076597,
+        "masterbedroom": 5.13793624414564
+    },
+    "11-26-2019": {
+        "familyroom": 4.81581208822687,
+        "kitchen": 4.5889429962761366,
+        "livingroom": 4.726439415640218,
+        "masterbathroom": 4.898309939845316,
+        "masterbedroom": 4.970495560011458
+    },
+    "11-27-2019": {
+        "familyroom": 4.904929577464786,
+        "kitchen": 4.626760563380274,
+        "livingroom": 4.79225352112676,
+        "masterbathroom": 4.8274647887323985,
+        "masterbedroom": 4.848591549295779
+    },
+    "11-28-2019": {
+        "familyroom": 4.831797235023036,
+        "kitchen": 4.230414746543788,
+        "livingroom": 4.7073732718893995,
+        "masterbathroom": 5.0702764976958505,
+        "masterbedroom": 5.1601382488479235
+    },
+    "11-29-2019": {
+        "familyroom": 4.967177870144762,
+        "kitchen": 4.447756915579761,
+        "livingroom": 4.812383545936649,
+        "masterbathroom": 4.8708614017485985,
+        "masterbedroom": 4.901820266590229
+    },
+    "11-30-2019": {
+        "familyroom": 5.1086232980332875,
+        "kitchen": 4.6148260211800105,
+        "livingroom": 4.919818456883514,
+        "masterbathroom": 4.683812405446299,
+        "masterbedroom": 4.672919818456888
+    },
+    "12-01-2019": {
+        "familyroom": 4.6987850858818625,
+        "kitchen": 4.400502723083359,
+        "livingroom": 4.5010473397570205,
+        "masterbathroom": 5.171344784248009,
+        "masterbedroom": 5.228320067029747
+    },
+    "12-02-2019": {
+        "familyroom": 4.929147982062779,
+        "kitchen": 4.570403587443949,
+        "livingroom": 4.699551569506727,
+        "masterbathroom": 4.875336322869955,
+        "masterbedroom": 4.925560538116592
+    },
+    "12-03-2019": {
+        "familyroom": 4.866452244441341,
+        "kitchen": 4.681862676548733,
+        "livingroom": 4.691931198433786,
+        "masterbathroom": 4.859739896517967,
+        "masterbedroom": 4.900013984058173
+    },
+    "12-04-2019": {
+        "familyroom": 4.867448935245546,
+        "kitchen": 4.676227727075187,
+        "livingroom": 4.735332464146023,
+        "masterbathroom": 4.8222511951325515,
+        "masterbedroom": 4.898739678400695
+    },
+    "12-05-2019": {
+        "familyroom": 4.751370204285,
+        "kitchen": 4.484304932735427,
+        "livingroom": 5.468858993522672,
+        "masterbathroom": 4.639760837070254,
+        "masterbedroom": 4.655705032386647
+    },
+    "12-06-2019": {
+        "familyroom": 4.963843236409608,
+        "kitchen": 4.793931731984829,
+        "livingroom": 4.232616940581543,
+        "masterbathroom": 5.003286978508219,
+        "masterbedroom": 5.006321112515804
+    },
+    "12-07-2019": {
+        "familyroom": 4.865650377546659,
+        "kitchen": 4.677589400199457,
+        "livingroom": 4.725459467160566,
+        "masterbathroom": 4.8998432825188765,
+        "masterbedroom": 4.831457472574442
+    },
+    "12-08-2019": {
+        "familyroom": 4.74609041796986,
+        "kitchen": 4.732442422519185,
+        "livingroom": 4.899630366789882,
+        "masterbathroom": 4.800682399772535,
+        "masterbedroom": 4.821154392948537
+    },
+    "12-09-2019": {
+        "familyroom": 5.285551392734969,
+        "kitchen": 4.957159146440789,
+        "livingroom": 5.594396481511646,
+        "masterbathroom": 2.873432155074119,
+        "masterbedroom": 5.289460824238477
+    },
+    "12-10-2019": {
+        "familyroom": 4.44159836065574,
+        "kitchen": 4.180327868852459,
+        "livingroom": 4.447745901639344,
+        "masterbathroom": 6.433401639344259,
+        "masterbedroom": 4.496926229508199
+    },
+    "12-11-2019": {
+        "familyroom": 4.907415533128564,
+        "kitchen": 4.7283896445809575,
+        "livingroom": 4.977621763931549,
+        "masterbathroom": 4.658183413777973,
+        "masterbedroom": 4.7283896445809575
+    },
+    "12-12-2019": {
+        "familyroom": 4.960187353629976,
+        "kitchen": 4.752927400468383,
+        "livingroom": 3.7412177985948483,
+        "masterbathroom": 5.251756440281032,
+        "masterbedroom": 5.2939110070257644
+    },
+    "12-13-2019": {
+        "familyroom": 4.595813639432814,
+        "kitchen": 4.3300472653612445,
+        "livingroom": 5.947332883187034,
+        "masterbathroom": 4.537474679270764,
+        "masterbedroom": 4.589331532748144
+    },
+    "12-14-2019": {
+        "familyroom": 4.8906976744186,
+        "kitchen": 4.48953488372093,
+        "livingroom": 4.876744186046514,
+        "masterbathroom": 4.866279069767446,
+        "masterbedroom": 4.876744186046514
+    },
+    "12-15-2019": {
+        "familyroom": 4.900723589001444,
+        "kitchen": 4.442257597684522,
+        "livingroom": 4.9840810419681585,
+        "masterbathroom": 4.824312590448624,
+        "masterbedroom": 4.848625180897251
+    },
+    "12-16-2019": {
+        "familyroom": 4.7945632167634145,
+        "kitchen": 4.380008494973809,
+        "livingroom": 4.978054650998158,
+        "masterbathroom": 4.916890839586579,
+        "masterbedroom": 4.9304827976780405
+    },
+    "12-17-2019": {
+        "familyroom": 4.929975251128255,
+        "kitchen": 4.615518998398605,
+        "livingroom": 4.968408793128548,
+        "masterbathroom": 4.713349832581162,
+        "masterbedroom": 4.77274712476343
+    },
+    "12-18-2019": {
+        "familyroom": 5.085354896675654,
+        "kitchen": 4.55705300988319,
+        "livingroom": 5.0637915543575955,
+        "masterbathroom": 4.618149146451034,
+        "masterbedroom": 4.675651392632528
+    },
+    "12-19-2019": {
+        "familyroom": 4.825901732462366,
+        "kitchen": 4.529395058222096,
+        "livingroom": 5.020164725930131,
+        "masterbathroom": 4.795228628230619,
+        "masterbedroom": 4.829309855154787
+    },
+    "12-20-2019": {
+        "familyroom": 4.74426605504587,
+        "kitchen": 4.396788990825694,
+        "livingroom": 4.272935779816512,
+        "masterbathroom": 5.146788990825688,
+        "masterbedroom": 5.439220183486237
+    },
+    "12-21-2019": {
+        "familyroom": 4.7729004940014175,
+        "kitchen": 4.241072688779095,
+        "livingroom": 5.27085391672548,
+        "masterbathroom": 4.95920959774171,
+        "masterbedroom": 4.755963302752297
+    },
+    "12-22-2019": {
+        "familyroom": 4.886145010768125,
+        "kitchen": 4.4519741564967665,
+        "livingroom": 5.086001435750182,
+        "masterbathroom": 4.779325197415647,
+        "masterbedroom": 4.796554199569281
+    },
+    "12-23-2019": {
+        "familyroom": 5.0135881738091665,
+        "kitchen": 4.61579811856055,
+        "livingroom": 4.3792743019262375,
+        "masterbathroom": 5.0315066447663135,
+        "masterbedroom": 4.959832760937735
+    },
+    "12-24-2019": {
+        "familyroom": 4.7568820631701,
+        "kitchen": 4.120544769631987,
+        "livingroom": 5.372355838887277,
+        "masterbathroom": 4.906403940886701,
+        "masterbedroom": 4.843813387423934
+    },
+    "12-25-2019": {
+        "familyroom": 4.54658385093167,
+        "kitchen": 4.086956521739138,
+        "livingroom": 6.368530020703931,
+        "masterbathroom": 4.4057971014492745,
+        "masterbedroom": 4.592132505175984
+    },
+    "12-26-2019": {
+        "familyroom": 0.0,
+        "kitchen": 0.0,
+        "livingroom": 24.0,
+        "masterbathroom": 0.0,
+        "masterbedroom": 0.0
+    },
+    "12-27-2019": {
+        "familyroom": 0.0,
+        "kitchen": 0.0,
+        "livingroom": 24.0,
+        "masterbathroom": 0.0,
+        "masterbedroom": 0.0
+    },
+    "12-28-2019": {
+        "familyroom": 0.0,
+        "kitchen": 0.0,
+        "livingroom": 24.0,
+        "masterbathroom": 0.0,
+        "masterbedroom": 0.0
+    },
+    "12-29-2019": {
+        "familyroom": 0.0,
+        "kitchen": 0.0,
+        "livingroom": 24.0,
+        "masterbathroom": 0.0,
+        "masterbedroom": 0.0
+    },
+    "12-30-2019": {
+        "familyroom": 0.0,
+        "kitchen": 0.0,
+        "livingroom": 24.0,
+        "masterbathroom": 0.0,
+        "masterbedroom": 0.0
+    },
+    "12-31-2019": {
+        "familyroom": 0.10578900969732588,
+        "kitchen": 8.674698795180722,
+        "livingroom": 15.21951219512195,
+        "masterbathroom": 0.0,
+        "masterbedroom": 0.0
+    },
+    "01-01-2020": {
+        "familyroom": 0.0,
+        "kitchen": 0.24810475534114407,
+        "livingroom": 23.751895244658854,
+        "masterbathroom": 0.0,
+        "masterbedroom": 0.0
+    },
+    "01-02-2020": {
+        "familyroom": 8.984329657574,
+        "kitchen": 0.0,
+        "livingroom": 15.015670342425999,
+        "masterbathroom": 0.0,
+        "masterbedroom": 0.0
+    },
+    "01-03-2020": {
+        "familyroom": 6.577113334066168,
+        "kitchen": 4.875453446191047,
+        "livingroom": 3.788501703858418,
+        "masterbathroom": 4.390018687479392,
+        "masterbedroom": 4.368912828404975
+    },
+    "01-04-2020": {
+        "familyroom": 4.751116071428569,
+        "kitchen": 4.453125000000001,
+        "livingroom": 6.01674107142857,
+        "masterbathroom": 4.034598214285714,
+        "masterbedroom": 4.744419642857147
+    },
+    "01-05-2020": {
+        "familyroom": 4.543973941368074,
+        "kitchen": 4.394136807817587,
+        "livingroom": 4.690553745928342,
+        "masterbathroom": 5.501628664495115,
+        "masterbedroom": 4.869706840390883
+    },
+    "01-07-2020": {
+        "familyroom": 5.760324983073798,
+        "kitchen": 5.500338524035203,
+        "livingroom": 1.4583615436696005,
+        "masterbathroom": 5.622207176709549,
+        "masterbedroom": 5.658767772511849
+    },
+    "01-08-2020": {
+        "familyroom": 5.056107628802936,
+        "kitchen": 4.843296132089896,
+        "livingroom": 3.9626968353462755,
+        "masterbathroom": 5.056107628802936,
+        "masterbedroom": 5.081791774957958
+    },
+    "01-09-2020": {
+        "familyroom": 5.1737673528003825,
+        "kitchen": 4.882719004308282,
+        "livingroom": 5.514600287218764,
+        "masterbathroom": 3.036859741503113,
+        "masterbedroom": 5.392053614169461
+    },
+    "01-10-2020": {
+        "familyroom": 5.5868372943327245,
+        "kitchen": 5.455210237659966,
+        "livingroom": 0.0,
+        "masterbathroom": 7.572212065813524,
+        "masterbedroom": 5.385740402193784
+    },
+    "01-11-2020": {
+        "familyroom": 4.789192231916691,
+        "kitchen": 4.488601182099627,
+        "livingroom": 4.863495637489445,
+        "masterbathroom": 4.917534477905997,
+        "masterbedroom": 4.941176470588237
+    },
+    "01-12-2020": {
+        "familyroom": 4.971812080536909,
+        "kitchen": 4.549440715883666,
+        "livingroom": 4.9539149888143195,
+        "masterbathroom": 4.520805369127521,
+        "masterbedroom": 5.004026845637585
+    },
+    "01-13-2020": {
+        "familyroom": 5.850950830906284,
+        "kitchen": 5.633030666438236,
+        "livingroom": 6.146993318485521,
+        "masterbathroom": 3.4784992290560246,
+        "masterbedroom": 2.890525955113931
+    },
+    "01-14-2020": {
+        "familyroom": 4.0,
+        "kitchen": 3.869225302061128,
+        "livingroom": 4.150675195451317,
+        "masterbathroom": 5.987206823027717,
+        "masterbedroom": 5.992892679459842
+    },
+    "01-15-2020": {
+        "familyroom": 4.992112182296232,
+        "kitchen": 4.673093777388255,
+        "livingroom": 5.044697633654687,
+        "masterbathroom": 4.539877300613496,
+        "masterbedroom": 4.7502191060473296
+    },
+    "01-16-2020": {
+        "familyroom": 4.735035579740478,
+        "kitchen": 4.517371285056511,
+        "livingroom": 4.825449979070739,
+        "masterbathroom": 5.029719547928004,
+        "masterbedroom": 4.89242360820427
+    },
+    "01-17-2020": {
+        "familyroom": 4.953219592735277,
+        "kitchen": 4.444689047881132,
+        "livingroom": 4.847550908090255,
+        "masterbathroom": 4.873968079251512,
+        "masterbedroom": 4.880572372041826
+    }
+}

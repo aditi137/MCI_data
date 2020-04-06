@@ -47,22 +47,6 @@ def loadjson():
         meddata = json.load(f)
     events = set()
     for item in meddata:
-        #     if item['event'] in range(0, 5):
-        #         item['event'] = 0
-        #     elif item['event'] in range(5, 15):
-        #         item['event'] = 1
-        #     elif item['event'] in range(15, 30):
-        #         item['event'] = 2
-        #     elif item['event'] in range(30, 40):
-        #         item['event'] = 3
-        #     elif item['event'] in range(40, 60):
-        #         item['event'] = 4
-        #     elif item['event'] in range(60, 70):
-        #         item['event'] = 5
-        #     elif item['event'] in range(70, 130):
-        #         item['event'] = 6
-        # with open('Processed/medtracker_out.json', 'w') as f:
-        #     json.dump(meddata, f, indent=4)
         events.add(item['event'])
     print(events)
 
